@@ -1,4 +1,4 @@
-This is a demo for paper: "On the Use of BERT for Automated Essay Scoring: Joint Learning of Multi-Scale Essay Representation"
+This is a demo for the paper(NAACL 2022 long paper accepted): "On the Use of BERT for Automated Essay Scoring: Joint Learning of Multi-Scale Essay Representation"
 
 Steps to run the decoding process:
 step 1: Download the project to the computer.
