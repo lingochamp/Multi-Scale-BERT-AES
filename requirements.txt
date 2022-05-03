@@ -1,0 +1,4 @@
+torch==1.4
+transformers==3.4.0
+configargparse
+scikit-learn
